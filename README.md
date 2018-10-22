@@ -36,4 +36,6 @@ RIP Terry Davis
 * TempleOS Download http://templeos.org/
 
 ## Screenshots
+![(https://github.com/barrettotte/TempleOS-and-HolyC/blob/master/screenshots/screen01.PNG](https://github.com/barrettotte/TempleOS-and-HolyC/blob/master/screenshots/screen01.PNG)
 
+![(https://github.com/barrettotte/TempleOS-and-HolyC/blob/master/screenshots/screen02.PNG](https://github.com/barrettotte/TempleOS-and-HolyC/blob/master/screenshots/screen02.PNG)
