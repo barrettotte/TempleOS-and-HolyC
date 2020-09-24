@@ -2,7 +2,7 @@
 A very brief adventure in [TempleOS](http://templeos.org/) and HolyC.
 
 
-RIP Terry Davis
+RIP Terry Davis 
 
 
 ## Cheatsheet
