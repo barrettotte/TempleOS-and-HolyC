@@ -20,7 +20,7 @@ asm {
         CALL    &PUT_STR
         POP     RSI
         RET
-    ASMTEST3::
+    _ASMTEST3::
         ENTER   0
         PUSH    RSI
         MOV     RSI,SF_ARG1[RBP]
@@ -30,7 +30,7 @@ asm {
         RET1    8
 }
 
-_extern ASMTEST3 U0 AsmTest3(U8 *st);   //bind ASM function to HolyC function
+_extern _ASMTEST3 U0 AsmTest3(U8 *st);   //bind ASM function to HolyC function, _ is required
 
 Call(ASMTEST1);
 Call(ASMTEST2);
