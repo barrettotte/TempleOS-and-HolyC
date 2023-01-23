@@ -28,12 +28,14 @@ RIP Terry Davis
   * Place cursor over file, hit enter
   * Menu pops up -> Include -> spacebar
   * OR ```#include "C:/FilePath/SomeFile.HC.Z";```
+ * Display contents of a file ``Type("file.txt");``
 
 
 ## Sources
 * Intro + Changing Wallpaper in TempleOS https://www.youtube.com/watch?v=JIw4vPdv5X4
 * Terry Davis Hello World https://www.youtube.com/watch?v=CE41J-DZlq8
 * TempleOS Download http://templeos.org/
+* What is the Unix equivalent of `cat` for TempleOS? https://superuser.com/questions/1328371/what-is-the-unix-equivalent-of-cat-for-templeos
 
 ## Screenshots
 ![(https://github.com/barrettotte/TempleOS-and-HolyC/blob/master/screenshots/screen01.PNG](https://github.com/barrettotte/TempleOS-and-HolyC/blob/master/screenshots/screen01.PNG)
